@@ -10,4 +10,4 @@ The scripts are made as a part of Server Technologies course in Tampere Universi
 
 4. The _function-args.sh_ script implements arithmetic operations just as in previous scripts. The script behavior depends on number of arguments it is given (max 2).  If no arguments are given to the script, then the script asks for them. If only one is given, then the script asks only for second one. If both arguments are given, then the scripts does arithmetics right away.
 
-5. The _rfc-fetch.sh_ script takes an integer argument, and fetches same amount of rfc files. Then title and number of lines for each rfc file are printed. The url is https://www.ietf.org/rfc/rfc965.txt (rfc number varies).
+5. The _rfc-fetch.sh_ script takes a first integer argument, and fetches same amount of rfc files. Then title and number of lines for each rfc file are printed. The url is https://www.ietf.org/rfc/rfc965.txt (rfc number varies). If there is no any argument provided, only one rfc file is processed.
