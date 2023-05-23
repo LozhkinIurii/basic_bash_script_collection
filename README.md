@@ -1,5 +1,3 @@
-The scripts are made as a part of Server Technologies course in Tampere University of Applied Sciences
-
 # Basic bash script collection.
 
 1. The _variables-sum.sh_ script contains three defined variables, which are then joined to each other. There is also the variable that stores the sum of these variables.
