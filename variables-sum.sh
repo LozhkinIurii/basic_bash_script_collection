@@ -7,8 +7,7 @@
 var1=2
 var2=4
 var3=6
-joined=$var1+$var2+$var3
-# sum=$((var1+var2+var3))
-let sum=$var1+$var2+$var3
+joined=$var1$var2$var3
+sum=$((var1+var2+var3))
 echo Joined variables: $joined
 echo Sum of the variables: $sum
